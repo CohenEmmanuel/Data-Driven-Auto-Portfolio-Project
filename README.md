@@ -6,31 +6,22 @@ Backround about the company, including the industry, active years, business mode
 
 Insights and recommendations are provided on the following key areas:
 
-- Churn Analysis:
-
-Identify factors that contribute to customer churn. Product usage, income levels, account balances, customer behavior, customer service, etc.
+- **Churn Analysis:** Identify factors that contribute to customer churn. Product usage, income levels, account balances, customer behavior, customer service, etc.
 Create predictive models to forecast which customers are at risk of churning.
 Develop retention strategies based on the most significant churn factors.
 Develop personalized financial advice or products based on income brackets.
 Develop strategies to reduce complaints and improve customer satisfaction.
 
-- Customer Segmentation:
+- **Customer Segmentation:** Analyze customer segments (Retail, SME, Corporate) to understand their unique characteristics and needs.
 
-Analyze customer segments (Retail, SME, Corporate) to understand their unique characteristics and needs.
-
-Product Usage:
-
-Analyze the relationship between the number of products and customer retention.
+**Product Level Performance:** Analyze the relationship between the number of products and customer retention.
 Identify opportunities for cross-selling or up-selling based on customer segments and product usage.
 
 - Customer Service Improvement:
 
 Analyze the impact of complaints on churn rates.
 
-- Income and Balance Analysis:
-
-Investigate the relationship between income levels, account balances, and customer behavior.
-
+- Regional and Demographic analysis:
 
 The SQL queries used to inspect and clean the data for this analysis can be found here [link].
 
