@@ -1,4 +1,4 @@
-# Portfolio Project - Botswana Bank
+# Portfolio Project
 
 
 # Project Background
