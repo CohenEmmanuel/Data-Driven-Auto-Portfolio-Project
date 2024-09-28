@@ -1,4 +1,4 @@
-# Data Analyst - TEST
+# Data Analyst
 
 ### Education
 Test
