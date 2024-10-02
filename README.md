@@ -3,25 +3,20 @@
 
 ## Project Background
 
-Data Driven Auto, established in 2010, is a prominent US-based auto dealer operating within the automotive industry. Over the years, the company has built a robust business model centered around providing a diverse range of vehicles to meet the varying needs of consumers across the United States. As a data analyst at Data Driven Auto, my role involves leveraging data to uncover critical insights that drive the company's success. Key business metrics include sales volume, customer satisfaction, and market share, which are pivotal in shaping strategic decisions.
+Data Driven Auto (DDA), established in 2010, is a prominent US-based auto dealer that over the years has built a robust business model centered around providing a diverse range of vehicles to meet the varying needs of consumers across the country.
+
+Currently focused on expansion, DDA plans to harness its vast data on used car market sales and competitor activities accumulated over recent years. This project aims to comprehensively analyze and synthesize the available data to uncover key insights that will support strategic decisions-making to move them closer to their growth goals.
 
 Insights and recommendations are provided on the following key areas:
 
-- **Category 1: Identifying the Best Makes and Models of Cars to Invest In**
-  - Analysis of market demand and performance metrics to pinpoint high-potential makes and models.
+- **Vehicle Profitability:** Evaluation of auto sales transactions with a focus on factors that impact profit margins including make, model, condition, etc.
   - Recommendations for optimizing inventory investments based on profitability and consumer preferences.
 
-- **Category 2: Identifying the Performance of Competitors to Understand Which Ones Would Be the Best Choice to Acquire**
-  - Competitive analysis to evaluate the financial health and market positioning of potential acquisition targets.
-  - Strategies for identifying and acquiring competitors that align with our growth objectives.
+- **Competitive Landscape:** Assessment of competitor transactions and volume to further understanding of market share
 
-- **Category 3: Identifying Historical Sales Patterns, Focused on Transaction Volume and How It Relates to Key Factors Such as Profit Margin**
-  - Examination of historical sales data to uncover trends in transaction volume and profit margins.
-  - Insights into the relationship between sales patterns and key financial metrics to inform strategic planning.
+- **Sales Trend:** Historical sales patterns to identify any seasonal trends that may be present
 
-- **Category 4: Regional Comparisons, Comparing Various Regions and States to Decide Where to Target from a Geographical Perspective**
-  - Comparative analysis of regional sales performance to identify high-growth areas.
-  - Recommendations for targeted marketing and expansion strategies based on regional insights.
+- **Regional Comparisons:** An evaluation of regional sales market size
 
 The SQL queries used to inspect and clean the data for this analysis can be found here [link].
 
