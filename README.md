@@ -7,38 +7,21 @@ Data Driven Auto, established in 2010, is a prominent US-based auto dealer opera
 
 Insights and recommendations are provided on the following key areas:
 
-- **Category 1: Sales Trends**
-  - Analysis of historical sales data to identify patterns and trends over time.
-  - Recommendations for optimizing inventory based on seasonal demand fluctuations.
+- **Category 1: Identifying the Best Makes and Models of Cars to Invest In**
+  - Analysis of market demand and performance metrics to pinpoint high-potential makes and models.
+  - Recommendations for optimizing inventory investments based on profitability and consumer preferences.
 
-- **Category 2: Customer Demographics**
-  - Examination of customer demographics to tailor marketing strategies.
-  - Insights into customer preferences and purchasing behavior.
+- **Category 2: Identifying the Performance of Competitors to Understand Which Ones Would Be the Best Choice to Acquire**
+  - Competitive analysis to evaluate the financial health and market positioning of potential acquisition targets.
+  - Strategies for identifying and acquiring competitors that align with our growth objectives.
 
-- **Category 3: Market Competition**
-  - Competitive analysis to understand market positioning.
-  - Strategies to enhance competitive advantage and capture market share.
+- **Category 3: Identifying Historical Sales Patterns, Focused on Transaction Volume and How It Relates to Key Factors Such as Profit Margin**
+  - Examination of historical sales data to uncover trends in transaction volume and profit margins.
+  - Insights into the relationship between sales patterns and key financial metrics to inform strategic planning.
 
-- **Category 4: Operational Efficiency**
-  - Evaluation of operational processes to identify areas for improvement.
-  - Recommendations for streamlining operations to reduce costs and increase profitability.
-
-The SQL queries used to inspect and clean the data for this analysis can be found here [link].
-
-Targeted SQL queries regarding various business questions can be found here [link].
-
-An interactive Tableau dashboard used to report and explore sales trends can be found here [link].
-
-- **Customer Segmentation:** Analyze customer segments (Retail, SME, Corporate) to understand their unique characteristics and needs.
-
-**Product Level Performance:** Analyze the relationship between the number of products and customer retention.
-Identify opportunities for cross-selling or up-selling based on customer segments and product usage.
-
-- Customer Service Improvement:
-
-Analyze the impact of complaints on churn rates.
-
-- Regional and Demographic analysis:
+- **Category 4: Regional Comparisons, Comparing Various Regions and States to Decide Where to Target from a Geographical Perspective**
+  - Comparative analysis of regional sales performance to identify high-growth areas.
+  - Recommendations for targeted marketing and expansion strategies based on regional insights.
 
 The SQL queries used to inspect and clean the data for this analysis can be found here [link].
 
@@ -50,11 +33,9 @@ An interactive Tableau dashboard used to report and explore sales trends can be 
 
 # Data Structure & Initial Checks
 
-The companies main database structure as seen below consists of four tables: table1, table2, table3, table4, with a total row count of X records. A description of each table is as follows:
+The companies main database structure as seen below consists of three tables: cars, sales, geo_lookup, with a total row count of 533,648 records. A description of each table is as follows:
 - **Table 2:**
-- **Table 3:**
-- **Table 4:**
-- **Table 5:**
+- Contains geographical data
 
 [Entity Relationship Diagram here]
 
