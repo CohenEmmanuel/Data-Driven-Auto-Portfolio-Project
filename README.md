@@ -37,7 +37,9 @@ The companies main database structure as seen below consists of three tables: ca
 - **Table 2:**
 - Contains geographical data
 
-[Entity Relationship Diagram here]
+![](https://github.com/CohenEmmanuel/Data-Driven-Auto-Portfolio-Project/blob/main/assets/img/ERD.png)
+
+
 
 
 
