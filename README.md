@@ -1,16 +1,33 @@
-# Portfolio Project
+# Data Driven Auto - Portfolio Project
 
 
-# Project Background
-Backround about the company, including the industry, active years, business model, and key business metrics. Explain this from the POV of a data analyst who is working at the company.
+## Project Background
+
+Data Driven Auto, established in 2010, is a prominent US-based auto dealer operating within the automotive industry. Over the years, the company has built a robust business model centered around providing a diverse range of vehicles to meet the varying needs of consumers across the United States. As a data analyst at Data Driven Auto, my role involves leveraging data to uncover critical insights that drive the company's success. Key business metrics include sales volume, customer satisfaction, and market share, which are pivotal in shaping strategic decisions.
 
 Insights and recommendations are provided on the following key areas:
 
-- **Churn Analysis:** Identify factors that contribute to customer churn. Product usage, income levels, account balances, customer behavior, customer service, etc.
-Create predictive models to forecast which customers are at risk of churning.
-Develop retention strategies based on the most significant churn factors.
-Develop personalized financial advice or products based on income brackets.
-Develop strategies to reduce complaints and improve customer satisfaction.
+- **Category 1: Sales Trends**
+  - Analysis of historical sales data to identify patterns and trends over time.
+  - Recommendations for optimizing inventory based on seasonal demand fluctuations.
+
+- **Category 2: Customer Demographics**
+  - Examination of customer demographics to tailor marketing strategies.
+  - Insights into customer preferences and purchasing behavior.
+
+- **Category 3: Market Competition**
+  - Competitive analysis to understand market positioning.
+  - Strategies to enhance competitive advantage and capture market share.
+
+- **Category 4: Operational Efficiency**
+  - Evaluation of operational processes to identify areas for improvement.
+  - Recommendations for streamlining operations to reduce costs and increase profitability.
+
+The SQL queries used to inspect and clean the data for this analysis can be found here [link].
+
+Targeted SQL queries regarding various business questions can be found here [link].
+
+An interactive Tableau dashboard used to report and explore sales trends can be found here [link].
 
 - **Customer Segmentation:** Analyze customer segments (Retail, SME, Corporate) to understand their unique characteristics and needs.
 
