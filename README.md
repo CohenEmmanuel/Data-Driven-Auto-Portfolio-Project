@@ -27,15 +27,11 @@ An interactive Tableau dashboard used to report and explore sales trends can be 
 
 # Data Structure & Initial Checks
 
-Data Driven Auto's database was originally compiled into one sheet with a total row count of 558,838. To allow for improved performance, flexibility and scalability of the dataset as it is updated in the future it was divided into the : cars, sales, geo_lookup,  records. A description of each table is as follows:
-- **Table 2:**
-- Contains geographical data
+Data Driven Auto's database was originally compiled into one sheet with a total row count of 558,838. To allow for improved performance, flexibility and future scalability of the dataset by the end of the analysis it was divided into three tables: cars, sales and geo_lookup.
 
 ![](https://github.com/CohenEmmanuel/Data-Driven-Auto-Portfolio-Project/blob/main/assets/img/ERD.png)
 
-
-
-
+Prior to beginning the analysis, a variety of checks were conducted for quality control and familiarization with the datasets. The SQL queries used to inspect and clean the data for this analysis can be found here [link].
 
 # Executive Summary
 
