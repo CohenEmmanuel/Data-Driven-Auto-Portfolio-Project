@@ -36,7 +36,7 @@ Data Driven Auto's database initially consisted of one sheet containing auto sal
 
 ![](https://github.com/CohenEmmanuel/Data-Driven-Auto-Portfolio-Project/blob/main/assets/img/ERD.png)
 
-Before diving into the analysis, various checks were conducted for quality control and familiarization with the datasets. The SQL queries used to inspect and clean the data for this analysis, along with comments outlining the queries, can be found here [link].
+Before diving into the analysis, various checks were conducted for quality control and familiarization with the datasets. The SQL queries used to inspect and clean the data for this analysis, along with comments outlining the queries, can be found [here](https://github.com/CohenEmmanuel/Data-Driven-Auto-Portfolio-Project/blob/main/CarSales_Queries.sql).
 
 # Executive Summary
 
