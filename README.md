@@ -1,7 +1,6 @@
 # Data Driven Auto - Portfolio Project
 
 
-
 # Project Background
 
 Data Driven Auto (DDA), established in 2010, has become a leading US-based auto dealer, renowned for offering a wide variety of vehicles to cater to divers consumer needs nationwide.
@@ -62,9 +61,6 @@ Below is an overview page from the Tableau dashboard and additional examples are
 * Hyundai Motor Finance, though slightly higher margins at 11.91% on average, has a lower sales volume at 6,657.
 
 ![](https://github.com/CohenEmmanuel/Data-Driven-Auto-Portfolio-Project/blob/main/assets/img/Seller.png)
-
-[Visualization specific to category 2]
-
 
 ### Sales Trends:
 
