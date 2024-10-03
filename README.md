@@ -5,13 +5,13 @@
 - [Data Structure & Initial Checks](#data-structure--initial-checks)
 - [Executive Summary](#executive-summary)
 	- [Overview of Findings](#overview-of-findings)
- - [Insights Deep Dive](#insights-deep-dive)
- 	- [Vehicle Profitability Factors](#vehicle-profitability-factors)
-  - [Competitive Landscape](#competitive-landscape)
-  - [Sales Trends](#sales-trends)
-  - [Regional Comparisons](#regional-comparisons)
-  - [Recommendations](#recommendations)
-  - [Assumptions and Caveats](#assumptions-and-caveats)
+- [Insights Deep Dive](#insights-deep-dive)
+	- [Vehicle Profitability Factors](#vehicle-profitability-factors)
+	- [Competitive Landscape](#competitive-landscape)
+	- [Sales Trends](#sales-trends)
+	- [Regional Comparisons](#regional-comparisons)
+- [Recommendations](#recommendations)
+- [Assumptions and Caveats](#assumptions-and-caveats)
 
 # Project Background
 
