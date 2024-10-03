@@ -5,7 +5,7 @@
 
 Data Driven Auto (DDA), established in 2010, has become a leading US-based auto dealer, renowned for offering a wide variety of vehicles to cater to consumer needs nationwide.
 
-Currently focused on expansion, DDA plans to harness its vast data on used car market sales and competitor activities to further growth in the coming years. This project aims to comprehensively analyze and synthesize the available data to uncover key insights that will support strategic decisions-making to realize growth goals.
+Currently focused on expansion, DDA plans to harness its data on used car market sales and competitor activities to further growth in the coming years. This project aims to comprehensively analyze and synthesize the available data to uncover key insights that will support strategic decisions-making to realize growth goals.
 
 Insights and recommendations are provided on the following key areas:
 
