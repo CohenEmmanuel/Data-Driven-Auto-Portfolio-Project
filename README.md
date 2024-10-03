@@ -106,8 +106,8 @@ Based on the insights and findings above, the following recommendations should b
 * **Explore Western States:** Investigate opportunities in Western states, especially California, which boasts a large market and strong profit margins.
   
 * **Strategic Acquisitions:** Consider two potential directions depending on the desired scale of the acquisition:
-	* For larger acquisitions prioritizing high sales volume and robust profit margins, Nissan stands out as a prime candidate.
-	* For smaller strategic mergers, Hyundai Motor Finance presents an attractive option with the highest profit margins nationwide and a manageable scale. Hyundai ranks #1 in profitability nationwide and #2 in the Western states, including California.
+	* For larger mergers prioritizing high sales volume and robust profit margins, Nissan stands out as a prime candidate.
+	* For smaller strategic acquisitions, Hyundai Motor Finance presents an attractive option with the highest profit margins nationwide and a manageable scale. Hyundai ranks #1 in profitability nationwide and #2 in the Western states, including California.
    
 * **Optimal Launch Timings:** Aim to launch new locations in April or early November to capitalize on the seasonal surge in demand during summer and holiday months.
   
