@@ -13,7 +13,7 @@ Insights and recommendations are provided on the following key areas:
 
 - **Competitive Landscape:** Examination of competitor transactions and volumes to better understand market share dynamics.
 
-- **Sales Trends:** Assessment of historical sales patterns to spot any seasonal trends.
+- **Sales Trends:** Assessment of historical sales patterns to identify any seasonal trends.
 
 - **Regional Comparisons:** Evaluation of regional market sizes and performance.
 
