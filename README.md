@@ -53,7 +53,7 @@ Below is an overview page from the Tableau dashboard and additional examples are
 # Insights Deep Dive
 ### Vehicle Profitability Factors
 
-* **Nissan is the top-performing make nationwide with an average profit margin of 7.71%** and a substantial sales volume of 52,772 units from 2015-2018. Hyundai follows closely with a 7.31% profit margin, however this is paired with only 40% of the sales volume of volume of 21,098 units.
+* **Nissan is the top-performing make nationwide with an average profit margin of 7.71%** and a substantial sales volume of 52,772 units from 2015-2018. Hyundai follows closely with a 7.31% profit margin, however this is paired with only 40% of the sales volume of Nissan at 21,098 units.
   
 * With respect to specific models, **Nissan Altima & Maxima and Hyundai Elantra & Sonata lead the way with an average profit of 7.60% across these four models.** This profit margin is **37% higher than the national average** of 5.53% when excluding these brands.
 
