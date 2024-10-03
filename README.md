@@ -35,7 +35,7 @@ Several factors significantly impact profitability. For instance, vehicle make a
 
 Below is an overview page from the Tableau dashboard and additional examples are included throughout the report. The entire interactive dashboard can be viewed here [https://public.tableau.com/app/profile/emmanuel.cohen/viz/DataDrivenAuto/Dashboard-Make].
 
-[Visualization, including a graph of overall trends or snapshot of a dashboard]
+![](https://github.com/CohenEmmanuel/Data-Driven-Auto-Portfolio-Project/blob/main/assets/img/Dashboard_1.png)
 
 
 
