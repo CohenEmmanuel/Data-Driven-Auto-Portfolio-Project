@@ -70,7 +70,7 @@ Below is an overview page from the Tableau dashboard and additional examples are
 
 * **Nissan-Infiniti LT continues to be near the top end of sellers with a high profit margin of 10.65%** on their vehicles, paired with a high sales volume of 29,631 units.
   
-* Hyundai Motor Finance, though slightly higher margins at 11.91% on average, has a lower sales volume at 6,657.
+* Hyundai Motor Finance, though slightly higher margins at 11.91% on average, has a comparatively low sales volume at 6,657.
 
 ![](https://github.com/CohenEmmanuel/Data-Driven-Auto-Portfolio-Project/blob/main/assets/img/Seller.png)
 
