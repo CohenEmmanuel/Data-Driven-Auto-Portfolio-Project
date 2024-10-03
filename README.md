@@ -46,8 +46,14 @@ Below is an overview page from the Tableau dashboard and additional examples are
   
 * With respect to specific models, **Nissan Altima & Maxima and Hyundai Elantra & Sonata lead the way with an average profit of 7.60% across these four models.** This profit margin is **37% higher than the national average** of 5.53% when excluding these brands.
 
+![](https://github.com/CohenEmmanuel/Data-Driven-Auto-Portfolio-Project/blob/main/assets/img/Dashboard_2_p1.png)
+![](https://github.com/CohenEmmanuel/Data-Driven-Auto-Portfolio-Project/blob/main/assets/img/Dashboard_2_p2.png)
+
 * **Vehicle condition is highly correlated to profitability**, with rating over 25 generally yielding favorable margins. This trend continues up to the best condition rating (50), though the effect plateaus at the highest levels, between 40-50.
 
+<p align="center">
+  <img src="https://github.com/CohenEmmanuel/Data-Driven-Auto-Portfolio-Project/blob/main/assets/img/Condition.png" />
+</p>
 
 ### Competitive Landscape:
 
