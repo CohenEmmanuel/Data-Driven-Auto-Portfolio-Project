@@ -92,8 +92,7 @@ Below is an overview page from the Tableau dashboard and additional examples are
   
 * The **Northeast region is identified as the least profitable**, with an average profit margin of 3.49%.
 
-
-
+![](https://github.com/CohenEmmanuel/Data-Driven-Auto-Portfolio-Project/blob/main/assets/img/West.png)
 
 
 # Recommendations
