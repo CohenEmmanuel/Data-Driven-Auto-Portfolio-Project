@@ -35,7 +35,7 @@ Several factors significantly impact profitability. For instance, vehicle make a
 
 Below is an overview page from the Tableau dashboard and additional examples are included throughout the report. The entire interactive dashboard can be viewed [here](https://public.tableau.com/app/profile/emmanuel.cohen/viz/DataDrivenAuto/Dashboard-Make).
 
-![](https://github.com/CohenEmmanuel/Data-Driven-Auto-Portfolio-Project/blob/main/assets/img/Dashboard_1.png)
+![](https://github.com/CohenEmmanuel/Data-Driven-Auto-Portfolio-Project/blob/main/assets/img/Dashboard.png)
 
 
 
@@ -46,8 +46,8 @@ Below is an overview page from the Tableau dashboard and additional examples are
   
 * With respect to specific models, **Nissan Altima & Maxima and Hyundai Elantra & Sonata lead the way with an average profit of 7.60% across these four models.** This profit margin is **37% higher than the national average** of 5.53% when excluding these brands.
 
-![](https://github.com/CohenEmmanuel/Data-Driven-Auto-Portfolio-Project/blob/main/assets/img/Dashboard_2_p1.png)
-![](https://github.com/CohenEmmanuel/Data-Driven-Auto-Portfolio-Project/blob/main/assets/img/Dashboard_2_p2.png)
+![](https://github.com/CohenEmmanuel/Data-Driven-Auto-Portfolio-Project/blob/main/assets/img/Make_Header.png)
+![](https://github.com/CohenEmmanuel/Data-Driven-Auto-Portfolio-Project/blob/main/assets/img/Make_Chart.png)
 
 * **Vehicle condition is highly correlated to profitability**, with rating over 25 generally yielding favorable margins. This trend continues up to the best condition rating (50), though the effect plateaus at the highest levels, between 40-50.
 
@@ -61,6 +61,8 @@ Below is an overview page from the Tableau dashboard and additional examples are
   
 * Hyundai Motor Finance, though slightly higher margins at 11.91% on average, has a lower sales volume at 6,657.
 
+![](https://github.com/CohenEmmanuel/Data-Driven-Auto-Portfolio-Project/blob/main/assets/img/Seller.png)
+
 [Visualization specific to category 2]
 
 
@@ -69,7 +71,7 @@ Below is an overview page from the Tableau dashboard and additional examples are
 * Despite month-over-month variability in sales, **summer and holiday months consistently have the highest transaction volume** and exhibit persistent trends in a year-over-year analysis. January, March and October tend to underperform.
 * Recent years have shown **consistent growth in December**, with increases of 21% in 2017 and 34% in 2018.
 
-[Visualization specific to category 3]
+![](https://github.com/CohenEmmanuel/Data-Driven-Auto-Portfolio-Project/blob/main/assets/img/Sales_Trends.png)
 
 
 ### Regional Comparisons:
