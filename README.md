@@ -1,43 +1,39 @@
 # Data Driven Auto - Portfolio Project
 
 
-## Project Background
 
-Data Driven Auto (DDA), established in 2010, is a prominent US-based auto dealer that over the years has built a robust business model centered around providing a diverse range of vehicles to meet the varying needs of consumers across the country.
+# Project Background
 
-Currently focused on expansion, DDA plans to harness its vast data on used car market sales and competitor activities accumulated over recent years to further growth in the coming years. This project aims to comprehensively analyze and synthesize the available data to uncover key insights that will support strategic decisions-making to move them closer to their growth goals.
+Data Driven Auto (DDA), established in 2010, has become a leading US-based auto dealer, renowned for offering a wide variety of vehicles to cater to divers consumer needs nationwide.
+
+Currently focused on expansion, DDA plans to harness its vast data on used car market sales and competitor activities to further growth in the coming years. This project aims to comprehensively analyze and synthesize the available data to uncover key insights that will support strategic decisions-making to realize growth goals.
 
 Insights and recommendations are provided on the following key areas:
 
-- **Vehicle Profitability:** Evaluation of auto sales transactions with a focus on factors that impact profit margins including make, model, condition, etc.
+- **Vehicle Profitability Factors:** Analysis of auto sales transactions to identify factors—such as make, model, and condition—that influence profit margins.
 
-- **Competitive Landscape:** Assessment of competitor transactions and volume to further understanding of market share
+- **Competitive Landscape:** Examination of competitor transactions and volumes to better understand market share dynamics.
 
-- **Sales Trend:** Historical sales patterns to identify any seasonal trends that may be present
+- **Sales Trends:** Assessment of historical sales patterns to spot any seasonal trends.
 
-- **Regional Comparisons:** An evaluation of regional sales market size
-
-The SQL queries used to inspect and clean the data for this analysis can be found here [link].
-
-Targed SQL queries regarding various business questions can be found here [link].
-
-An interactive Tableau dashboard used to report and explore sales trends can be found here [link].
-
+- **Regional Comparisons:** Evaluation of regional market sizes and performance.
 
 
 # Data Structure & Initial Checks
 
-Data Driven Auto's database was originally compiled into one sheet with a total row count of 558,838. To allow for improved performance, flexibility and future scalability of the dataset by the end of the analysis it was divided into three tables: cars, sales and geo_lookup.
+Data Driven Auto's database initially consisted of one sheet containing auto sales data from 2015-2018 with a total row count of 558,838. For better performance, flexibility, and future scalability, the dataset was divided into three tables: cars, sales, and geo_lookup.
 
 ![](https://github.com/CohenEmmanuel/Data-Driven-Auto-Portfolio-Project/blob/main/assets/img/ERD.png)
 
-Prior to beginning the analysis, a variety of checks were conducted for quality control and familiarization with the datasets. The SQL queries used to inspect and clean the data for this analysis can be found here [link].
+Before diving into the analysis, various checks were conducted for quality control and familiarization with the datasets. The SQL queries used to inspect and clean the data for this analysis can be found here [link].
 
 # Executive Summary
 
 ### Overview of Findings
 
-Explain the overarching findings, trends, and themes in 2-3 sentences here. This section should address the question: "If a stakeholder were to take away 3 main insights from your project, what are the most important things they should know?" You can put yourself in the shoes of a specific stakeholder - for example, a marketing manager or finance director - to think creatively about this section.
+Several factors significantly impact profitability. For instance, vehicle make and model are crucial, with Nissan leading the pack at an impressive average profit margin of 7.71%, compared to the national average of 5.82%. Regionally, the Western states boast an above-average profit margin of 7.57%. Seasonal trends are similarly evident, with the highest transaction volumes occurring during summer and holiday months. The subsequent sections will delve deeper into these insights and explore additional factors driving profit and growth opportunities in the current market.
+
+Below is an overview page from the Tableau dashboard and additional examples are included throughout the report. The entire interactive dashboard can be viewed here [https://public.tableau.com/app/profile/emmanuel.cohen/viz/DataDrivenAuto/Dashboard-Make].
 
 [Visualization, including a graph of overall trends or snapshot of a dashboard]
 
