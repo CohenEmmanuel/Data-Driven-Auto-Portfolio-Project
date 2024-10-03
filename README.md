@@ -1,5 +1,17 @@
 # Data Driven Auto - Portfolio Project
 
+### Table of Contents
+- [Project Background](#project-background)
+- [Data Structure & Initial Checks](#data-structure-&-initial-checks)
+- [Executive Summary](#executive-summary)
+	- [Overview of Findings]
+ - [Insights Deep Dive]
+ 	- [Vehicle Profitability Factors]
+  - [Competitive Landscape]
+  - [Sales Trends]
+  - [Regional Comparisons]
+  - [Recommendations]
+  - [Assumptions and Caveats]
 
 # Project Background
 
@@ -39,7 +51,7 @@ Below is an overview page from the Tableau dashboard and additional examples are
 
 
 # Insights Deep Dive
-### Vehicle Profitability Factors:
+### Vehicle Profitability Factors
 
 * **Nissan is the top-performing make nationwide with an average profit margin of 7.71%** and a substantial sales volume of 52,772 units from 2014-2018. Hyundai follows closely with a 7.31% profit margin, however this is paired with only 40% of the sales volume of volume of 21,098 units.
   
@@ -54,7 +66,7 @@ Below is an overview page from the Tableau dashboard and additional examples are
   <img src="https://github.com/CohenEmmanuel/Data-Driven-Auto-Portfolio-Project/blob/main/assets/img/Condition.png" />
 </p>
 
-### Competitive Landscape:
+### Competitive Landscape
 
 * **Nissan-Infiniti LT continues to be near the top end of sellers with a high profit margin of 10.65%** on their vehicles, paired with a high sales volume of 29,631 units.
   
@@ -62,7 +74,7 @@ Below is an overview page from the Tableau dashboard and additional examples are
 
 ![](https://github.com/CohenEmmanuel/Data-Driven-Auto-Portfolio-Project/blob/main/assets/img/Seller.png)
 
-### Sales Trends:
+### Sales Trends
 
 * Despite month-over-month variability in sales, **summer and holiday months consistently have the highest transaction volume** and exhibit persistent trends in a year-over-year analysis. January, March and October tend to underperform.
 * Recent years have shown **consistent growth in December**, with increases of 21% in 2017 and 34% in 2018.
@@ -70,7 +82,7 @@ Below is an overview page from the Tableau dashboard and additional examples are
 ![](https://github.com/CohenEmmanuel/Data-Driven-Auto-Portfolio-Project/blob/main/assets/img/Sales_Trends.png)
 
 
-### Regional Comparisons:
+### Regional Comparisons
 
 * The **Western region demonstrates the highest profitability** with an average profit margin of 7.57%, which is **30% higher than the national average** profit margin of 5.82%.
   
@@ -84,7 +96,7 @@ Below is an overview page from the Tableau dashboard and additional examples are
 
 
 
-# Recommendations:
+# Recommendations
 
 Based on the insights and findings above, the following recommendations should be considered when evaluating growth opportunities: 
 
@@ -102,7 +114,7 @@ Based on the insights and findings above, the following recommendations should b
   
 
 
-# Assumptions and Caveats:
+# Assumptions and Caveats
 
 Throughout the analysis, multiple assumptions were made to address data challenges. The key assumptions and caveats are outlined below:
 
