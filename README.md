@@ -40,54 +40,41 @@ Below is an overview page from the Tableau dashboard and additional examples are
 
 
 # Insights Deep Dive
-### Category 1:
+### Vehicle Profitability Factors:
 
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Nissan is the top-performing make nationwide with an average profit margin of 7.71%** and a substantial sales volume of 52,772 units from 2014-2018. Hyundai follows closely with a 7.31% profit margin, however this is paired with only 40% of the sales volume of volume of 21,098 units.
   
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* With respect to specific models, **Nissan Altima & Maxima and Hyundai Elantra & Sonata lead the way with an average profit of 7.60% across these four models.** This profit margin is **37% higher than the national average** of 5.53% when excluding these brands.
 
-[Visualization specific to category 1]
+* **Vehicle condition is highly correlated to profitability**, with rating over 25 generally yielding favorable margins. This trend continues up to the best condition rating (50), though the effect plateaus at the highest levels, between 40-50.
 
 
-### Category 2:
+### Competitive Landscape:
 
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* **Nissan-Infiniti LT continues to be near the top end of sellers with a high profit margin of 10.65%** on their vehicles, paired with a high sales volume of 29,631 units.
   
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* Hyundai Motor Finance, though slightly higher margins at 11.91% on average, has a lower sales volume at 6,657.
 
 [Visualization specific to category 2]
 
 
-### Category 3:
+### Sales Trends:
 
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
-  
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* Despite month-over-month variability in sales, **summer and holiday months consistently have the highest transaction volume** and exhibit persistent trends in a year-over-year analysis. January, March and October tend to underperform.
+* Recent years have shown **consistent growth in December**, with increases of 21% in 2017 and 34% in 2018.
 
 [Visualization specific to category 3]
 
 
-### Category 4:
+### Regional Comparisons:
 
-* **Main insight 1.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* The **Western region demonstrates the highest profitability** with an average profit margin of 7.57%, which is **30% higher than the national average** profit margin of 5.82%.
   
-* **Main insight 2.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* Within the Western region, New Mexico and Washington exhibit the highest profit margins, with New Mexico achieving an impressive 15.8% and Washington attaining 11.5%. It’s noteworthy that these states have relatively low transaction volumes, with New Mexico recording only 179 transactions and Washington 7,117 transactions.
   
-* **Main insight 3.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* California presents a robust performance with an average profit margin of 8% while also maintaining a substantial volume of sales, totaling 69,636 transactions.
   
-* **Main insight 4.** More detail about the supporting analysis about this insight, including time frames, quantitative values, and observations about trends.
+* The **Northeast region is identified as the least profitable**, with an average profit margin of 3.49%.
 
 [Visualization specific to category 4]
 
@@ -95,26 +82,28 @@ Below is an overview page from the Tableau dashboard and additional examples are
 
 # Recommendations:
 
-Based on the insights and findings above, we would recommend the [stakeholder team] to consider the following: 
+Based on the insights and findings above, the following recommendations should be considered when evaluating growth opportunities: 
 
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
+* **Emphasize High-Margin Brands:** Nissan and Hyundai consistently achieving robust profit margins across various regions at an average of 7.71% and 7.31% respectively compared to the national average of 5.82%.
   
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
+* **Prioritize High-Condition Vehicles:** Concentrate on acquiring and selling vehicles in excellent condition, as these yield the highest profit margins.
   
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
+* **Explore Western States:** Investigate opportunities in Western states, especially California, which boasts a large market and strong profit margins.
   
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
-  
-* Specific observation that is related to a recommended action. **Recommendation or general guidance based on this observation.**
+* **Strategic Acquisitions:** Consider two potential directions depending on the desired scale of the acquisition:
+	* For larger acquisitions prioritizing high sales volume and robust profit margins, Nissan stands out as a prime candidate.
+	* For smaller strategic mergers, Hyundai Motor Finance presents an attractive option with the highest profit margins nationwide and a manageable scale. Hyundai ranks #1 in profitability nationwide and #2 in the Western states, including California.
+   
+* **Optimal Launch Timings:** Aim to launch new locations in April or early November to capitalize on the seasonal surge in demand during summer and holiday months.
   
 
 
 # Assumptions and Caveats:
 
-Throughout the analysis, multiple assumptions were made to manage challenges with the data. These assumptions and caveats are noted below:
+Throughout the analysis, multiple assumptions were made to address data challenges. The key assumptions and caveats are outlined below:
 
-* Assumption 1 (ex: missing country records were for customers based in the US, and were re-coded to be US citizens)
+* This dataset does not encompass the entire United States and is therefore incomplete. Some states were entirely missing, while others had low recorded sales volumes.
   
-* Assumption 1 (ex: data for December 2021 was missing - this was imputed using a combination of historical trends and December 2020 data)
+* Profit Margin %, a key metric in this analysis, was calculated by comparing the selling price to the estimated market value. This approach helped normalize profit margins across different makes, models, and sellers. However, it did not account for other factors that could impact net profits, such as transaction costs, state taxes, etc.
   
-* Assumption 1 (ex: because 3% of the refund date column contained non-sensical dates, these were excluded from the analysis)
+* During the data cleaning phase, approximately 2% of the data contained missing or nonsensical values and were removed. Although this represents a small portion of the overall dataset, it is possible that these omissions could have impacted some of the values presented above.
