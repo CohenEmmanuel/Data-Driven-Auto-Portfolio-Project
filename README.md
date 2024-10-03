@@ -2,7 +2,7 @@
 
 ### Table of Contents
 - [Project Background](#project-background)
-- [Data Structure & Initial Checks](#data-structure-&-initial-checks)
+- [Data Structure & Initial Checks](#data-structure--initial-checks)
 - [Executive Summary](#executive-summary)
 	- [Overview of Findings]
  - [Insights Deep Dive]
