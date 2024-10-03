@@ -42,7 +42,7 @@ Before diving into the analysis, various checks were conducted for quality contr
 
 ### Overview of Findings
 
-Several factors significantly impact profitability. For instance, vehicle make and model are crucial, with Nissan leading the pack at an impressive average profit margin of 7.71%, compared to the national average of 5.82%. Regionally, the Western states boast an above-average profit margin of 7.57%. Seasonal trends are similarly evident, with the highest transaction volumes occurring during summer and holiday months. The subsequent sections will delve deeper into these insights and explore additional factors driving profit and growth opportunities in the current market.
+Several factors significantly impact profitability. For instance, vehicle make and model are crucial, with Nissan leading the pack at an impressive average profit margin of 7.71% compared to the national average of 5.82%. Regionally, the Western states boast an above-average profit margin of 7.57%. Seasonal trends are similarly evident, with the highest transaction volumes occurring during summer and holiday months. The subsequent sections will delve deeper into these insights and explore additional factors driving profit and growth opportunities in the current market.
 
 Below is an overview page from the Tableau dashboard and additional examples are included throughout the report. The entire interactive dashboard can be viewed [here](https://public.tableau.com/app/profile/emmanuel.cohen/viz/DataDrivenAuto/Dashboard-Make).
 
