@@ -60,7 +60,7 @@ Below is an overview page from the Tableau dashboard and additional examples are
 ![](https://github.com/CohenEmmanuel/Data-Driven-Auto-Portfolio-Project/blob/main/assets/img/Make_Header.png)
 ![](https://github.com/CohenEmmanuel/Data-Driven-Auto-Portfolio-Project/blob/main/assets/img/Make_Chart.png)
 
-* **Vehicle condition is highly correlated to profitability**, with rating over 25 generally yielding favorable margins. This trend continues up to the best condition rating (50), though the effect plateaus at the highest levels, between 40-50.
+* **Vehicle condition is highly correlated to profitability**, with ratings over 25 generally yielding favorable margins. This trend continues up to the best condition rating (50), though the effect plateaus at the highest levels, between 40-50.
 
 <p align="center">
   <img src="https://github.com/CohenEmmanuel/Data-Driven-Auto-Portfolio-Project/blob/main/assets/img/Condition.png" />
