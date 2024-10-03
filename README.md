@@ -101,7 +101,7 @@ Based on the insights and findings above, the following recommendations should b
 
 * **Emphasize High-Margin Brands:** Nissan and Hyundai consistently achieving robust profit margins across various regions at an average of 7.71% and 7.31% respectively compared to the national average of 5.82%.
   
-* **Prioritize High-Condition Vehicles:** Concentrate on acquiring and selling vehicles in excellent condition, as these yield the highest profit margins.
+* **Prioritize Good-Condition Vehicles:** Concentrate on acquiring and selling vehicles in excellent condition, as these yield the highest profit margins.
   
 * **Explore Western States:** Investigate opportunities in Western states, especially California, which boasts a large market and strong profit margins.
   
